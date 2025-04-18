@@ -52,7 +52,7 @@ For rural farmers (Hindi, Tamil, etc.)
 ## Purpose: 
 Smart Farming leverages data and digital tools to help farmers make informed decisions. This app aims to be a stepping stone towards that goal by combining real-time weather data with actionable insights for agriculture.
 
-## Tech Stack Suggestions
+## Tech Stack 
 Frontend:
 React.js (with Tailwind CSS or Material UI)
 
