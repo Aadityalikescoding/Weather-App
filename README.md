@@ -2,20 +2,55 @@
 
 This project is more than just a typical weather application — it’s designed with a smart farming perspective. The goal is to provide farmers with real-time weather insights and environmental data that can support better crop planning, irrigation management, and risk reduction.
 
-## Key Features:
+## Features of Your Smart Farming Website
+1. Dashboard
+Overview of farm health, Current weather & forecast
 
-Live weather updates based on location
+Alerts & notifications (pests, frost, drought, etc.)
 
-Forecasting models for temperature, rainfall, humidity, and wind
+2. Weather Integration
+Real-time weather data (temperature, rainfall, humidity, wind speed)
 
-Dashboard with smart alerts for extreme weather conditions
+7-day forecast
 
-Modular design to integrate with IoT devices and sensors (e.g., soil moisture, pH levels)
+Weather-based crop suggestions
 
-Future scope: crop recommendation engine based on weather and soil data
+✅ APIs you can use:
+
+OpenWeatherMap API
+
+WeatherAPI
+
+3. IoT Sensor Data
+Soil moisture, pH, temperature
+
+Sensor integration using MQTT or HTTP from devices like Arduino/ESP32
+
+4. Drone Monitoring
+Live drone feed (if available)
+
+Aerial crop health analytics (NDVI, etc.)
+
+5. AI-based Crop Suggestions
+Based on soil, weather, and region
+
+Fertilizer usage recommendations
+
+Disease detection from uploaded images
+
+6. Farm Management Tools
+Crop planner
+
+Watering schedule
+
+Harvest tracker
+
+7. Multilingual Support (Optional)
+For rural farmers (Hindi, Tamil, etc.)
 
 
-## Purpose: Smart Farming leverages data and digital tools to help farmers make informed decisions. This app aims to be a stepping stone towards that goal by combining real-time weather data with actionable insights for agriculture.
+## Purpose: 
+Smart Farming leverages data and digital tools to help farmers make informed decisions. This app aims to be a stepping stone towards that goal by combining real-time weather data with actionable insights for agriculture.
 
 ## Tech Stack Suggestions
 Frontend:
