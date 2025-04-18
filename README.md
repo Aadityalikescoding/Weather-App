@@ -17,12 +17,22 @@ Future scope: crop recommendation engine based on weather and soil data
 
 ## Purpose: Smart Farming leverages data and digital tools to help farmers make informed decisions. This app aims to be a stepping stone towards that goal by combining real-time weather data with actionable insights for agriculture.
 
-## Tech Stack:
+## Tech Stack Suggestions
+Frontend:
+React.js (with Tailwind CSS or Material UI)
 
-Frontend: HTML, CSS, JavaScript (Leaflet.js for interactive maps)
+Responsive UI for mobile and desktop
 
-Backend: Node.js / Flask (future expansion)
+Backend:
+Node.js + Express (API handling)
 
-APIs: OpenWeatherMap API (initially), scalable to agri-specific datasets
+Firebase / MongoDB (Data storage)
 
-Deployment: GitHub Pages / Docker-ready
+APIs/Tools:
+OpenWeatherMap (for weather)
+
+TensorFlow.js (AI for crop disease detection)
+
+MQTT broker (for IoT devices)
+
+Google Maps API (for GPS integration)
