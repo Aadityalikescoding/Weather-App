@@ -4,48 +4,28 @@ This project is more than just a typical weather application — it’s designed
 
 ## Features of Your Smart Farming Website
 1. Dashboard
-Overview of farm health, Current weather & forecast
-
+Overview of farm health, Current weather & forecast, along with the buying of products.
 Alerts & notifications (pests, frost, drought, etc.)
 
 2. Weather Integration
 Real-time weather data (temperature, rainfall, humidity, wind speed)
-
-7-day forecast
-
-Weather-based crop suggestions
-
-✅ APIs you can use:
-
-OpenWeatherMap API
-
-WeatherAPI
+7-day forecast, Weather-based crop suggestions
 
 3. IoT Sensor Data
 Soil moisture, pH, temperature
-
 Sensor integration using MQTT or HTTP from devices like Arduino/ESP32
 
 4. Drone Monitoring
 Live drone feed (if available)
-
 Aerial crop health analytics (NDVI, etc.)
 
 5. AI-based Crop Suggestions
-Based on soil, weather, and region
-
-Fertilizer usage recommendations
-
-Disease detection from uploaded images
+Based on soil, weather, and region. Fertilizer usage recommendations. Disease detection from uploaded images by the farmer
 
 6. Farm Management Tools
-Crop planner
+Crop planner and watering schedule
 
-Watering schedule
-
-Harvest tracker
-
-7. Multilingual Support (Optional)
+7. Multilingual Support (In progress)
 For rural farmers (Hindi, Tamil, etc.)
 
 
