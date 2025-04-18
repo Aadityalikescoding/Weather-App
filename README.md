@@ -2,7 +2,7 @@
 
 This project is more than just a typical weather application — it’s designed with a smart farming perspective. The goal is to provide farmers with real-time weather insights and environmental data that can support better crop planning, irrigation management, and risk reduction.
 
-## Features of Your Smart Farming Website
+## Features of The Smart Farming Website
 1. Dashboard
 Overview of farm health, Current weather & forecast, along with the buying of products.
 Alerts & notifications (pests, frost, drought, etc.)
